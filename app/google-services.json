@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "338390974182",
+    "firebase_url": "https://state-control-67a95.firebaseio.com",
+    "project_id": "state-control-67a95",
+    "storage_bucket": "state-control-67a95.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338390974182:android:ed08e61832aa1755",
+        "android_client_info": {
+          "package_name": "com.abdulgafur.bersugir.statecontrol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "338390974182-aq8j3ev1efsehb5lsp0hgm8ufem0tei3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abdulgafur.bersugir.statecontrol",
+            "certificate_hash": "01406db7857d139a8e16b2fb5064a86dcdcfc176"
+          }
+        },
+        {
+          "client_id": "338390974182-94r1hlqdr2vvnq2e55kfpp6soj9gtr9p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abdulgafur.bersugir.statecontrol",
+            "certificate_hash": "2c97ea18a6f57cf7e69d5587fbcc10f98e4ce3c8"
+          }
+        },
+        {
+          "client_id": "338390974182-3loi5sivnjdqo6rf91gif9s1mak6u806.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDN9z9ID1iW5r6AzL5BNZefe_I6AnX6A_o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "338390974182-3loi5sivnjdqo6rf91gif9s1mak6u806.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
